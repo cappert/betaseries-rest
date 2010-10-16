@@ -2,10 +2,9 @@ source 'http://rubygems.org'
 
 gem 'activeresource'
 # dependencies : activemodel, activesupport
+
 gem 'railties'
 # dependencies : actionpack, activesupport
-
-
 
 group :development do
   gem 'sqlite3-ruby', :require => 'sqlite3'
