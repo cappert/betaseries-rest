@@ -99,13 +99,11 @@ PLATFORMS
 DEPENDENCIES
   activeresource
   capybara
-  cucumber
-  cucumber-rails
+  cucumber-rails (~> 0.3.2)
   database_cleaner
   fakeweb
   launchy
   railties
-  rspec (= 2.0.0)
-  rspec-rails (= 2.0.0)
+  rspec-rails (~> 2.0.0)
   spork
   sqlite3-ruby
