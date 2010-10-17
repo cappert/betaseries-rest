@@ -16,9 +16,6 @@ GEM
       activesupport (= 3.0.1)
       builder (~> 2.1.2)
       i18n (~> 0.4.1)
-    activeresource (3.0.1)
-      activemodel (= 3.0.1)
-      activesupport (= 3.0.1)
     activesupport (3.0.1)
     builder (2.1.2)
     capybara (0.3.9)
@@ -84,7 +81,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activeresource
+  activemodel
   capybara
   database_cleaner
   fakeweb

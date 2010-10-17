@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'activeresource'
-# dependencies : activemodel, activesupport
+gem 'activemodel'
+# dependencies : i18n, builder, activesupport
 
 gem 'railties'
 # dependencies : actionpack, activesupport
