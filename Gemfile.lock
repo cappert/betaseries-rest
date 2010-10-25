@@ -1,3 +1,9 @@
+GIT
+  remote: http://github.com/thoughtbot/factory_girl.git
+  revision: 5c88bb058b876107d6d93dd8ac48c5cd46dc566f
+  specs:
+    factory_girl (2.0.0.beta1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -84,6 +90,7 @@ DEPENDENCIES
   activemodel
   capybara
   database_cleaner
+  factory_girl!
   fakeweb
   launchy
   railties
