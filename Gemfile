@@ -18,4 +18,5 @@ group :test do
   gem 'database_cleaner'
   gem 'fakeweb'
   gem 'factory_girl', :git => "http://github.com/thoughtbot/factory_girl.git"
+  gem 'nokogiri'
 end

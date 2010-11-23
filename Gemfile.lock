@@ -96,6 +96,7 @@ DEPENDENCIES
   factory_girl!
   fakeweb
   launchy
+  nokogiri
   railties
   rspec-rails
   spork
