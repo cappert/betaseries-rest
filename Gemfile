@@ -12,7 +12,7 @@ end
 
 group :test do
   gem 'launchy'
-  gem "rspec-rails", '~> 2.0.0'
+  gem "rspec-rails"
   gem 'spork'
   gem 'capybara'
   gem 'database_cleaner'
